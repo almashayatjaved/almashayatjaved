@@ -1,17 +1,17 @@
-![MasterHead](https://themewagon.com/wp-content/uploads/2020/12/eflyer.jpg)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*6ndv0V7y3UdYptmN)
 <h1 align="center">Hi 👋, I'm Almas Javed</h1>
 <h3 align="center">An enthusiastic developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966"/>
+<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966"/>
 
-- 🔭 I’m currently working on **building new features in Data Visualization.**
+- 🔭 I’m currently working on **building new features in Data Visualization with Svelte.**
 
-- 👀 I’m interested in Just building **more Graphics than just content :)**
+- 👀 I’m interested in building **more Graphics than just content :)**
 
 - 🌱 I’m currently learning **getting more grasp on Data Visualization!**
 
 - 📫 How to reach me **radiantDev03@gmail.com**
 
-- ⚡ Fun fact **I think I know more than other just besides work : )**
+- ⚡ Fun fact : **I think I know more than other just besides work  : )**
 
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
